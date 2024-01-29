@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "SecureSdk"
-  spec.version      = "0.0.4"
+  spec.version      = "0.0.6"
   spec.summary      = "An instagram storyview like framework with an easy-to-use interface."
 
   spec.homepage     = "https://github.com/sonmezvolkan"
