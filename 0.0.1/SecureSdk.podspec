@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "SecureSdk"
-  spec.version      = "0.0.6"
+  spec.version      = "0.0.1"
   spec.summary      = "An instagram storyview like framework with an easy-to-use interface."
 
   spec.homepage     = "https://github.com/sonmezvolkan"
@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   spec.ios.deployment_target = "12.0"
   spec.swift_version = '5.0'
 
-  spec.source       = { :http => "https://staging.musicaseservice.me/SecureSdk.xcframework.zip" }
+  spec.source       = { :http => "https://musicaseservice.me/SecureSdk.xcframework.zip" }
 
 spec.vendored_frameworks = "SecureSdk.xcframework"
 end
